@@ -69,7 +69,7 @@ Tools used:
 
 **Maps available here:**
 
-[Canadian Traditional Audience Measurement Maps: 2019-2025]()
+[Canadian Traditional Audience Measurement Maps: 2019-2025](https://rjohns116.github.io/Canadian_Traditional_Media_Audience_Measurement/)
 
 **Trend line chart available here:**
 
