@@ -1,0 +1,676 @@
+Broadcast_Year,Broadcast_Quarter,Market,Service_Type,Broadcast_Language,Total_Quarterly_Hours
+2019,1,Atlantic,Conventional ,English,245393439
+2019,1,Atlantic,Conventional ,French,1966215
+2019,1,Atlantic,Discretionary & On-Demand,English,515571906
+2019,1,Atlantic,Discretionary & On-Demand,French,2978336
+2019,1,Atlantic,Non-Canadian & Other,English,139678865
+2019,1,Central,Conventional ,English,230846091
+2019,1,Central,Conventional ,French,280938
+2019,1,Central,Discretionary & On-Demand,French,110468
+2019,1,Central,Discretionary & On-Demand,English,488976358
+2019,1,Central,Non-Canadian & Other,English,77653855
+2019,1,Ontario,Conventional ,English,1270233389
+2019,1,Ontario,Conventional ,French,13903185
+2019,1,Ontario,Discretionary & On-Demand,French,8521959
+2019,1,Ontario,Discretionary & On-Demand,English,2337540864
+2019,1,Ontario,Non-Canadian & Other,English,596530633
+2019,1,Quebec,Conventional ,English,138958071
+2019,1,Quebec,Conventional ,French,1212256790
+2019,1,Quebec,Discretionary & On-Demand,English,229937340
+2019,1,Quebec,Discretionary & On-Demand,French,1240921602
+2019,1,Quebec,Non-Canadian & Other,English,96080819
+2019,1,West,Conventional ,French,913676
+2019,1,West,Conventional ,English,817064798
+2019,1,West,Discretionary & On-Demand,French,9223612
+2019,1,West,Discretionary & On-Demand,English,1392366488
+2019,1,West,Non-Canadian & Other,English,354463776
+2019,2,Atlantic,Conventional ,French,3005008
+2019,2,Atlantic,Conventional ,English,267146546
+2019,2,Atlantic,Discretionary & On-Demand,French,2656032
+2019,2,Atlantic,Discretionary & On-Demand,English,535736091
+2019,2,Atlantic,Non-Canadian & Other,English,112458168
+2019,2,Central,Conventional ,French,246430
+2019,2,Central,Conventional ,English,255113031
+2019,2,Central,Discretionary & On-Demand,French,72968
+2019,2,Central,Discretionary & On-Demand,English,546856109
+2019,2,Central,Non-Canadian & Other,English,78098159
+2019,2,Ontario,Conventional ,French,14624096
+2019,2,Ontario,Conventional ,English,1269218629
+2019,2,Ontario,Discretionary & On-Demand,French,10767193
+2019,2,Ontario,Discretionary & On-Demand,English,2428142349
+2019,2,Ontario,Non-Canadian & Other,English,546496790
+2019,2,Quebec,Conventional ,French,1304884715
+2019,2,Quebec,Conventional ,English,147664837
+2019,2,Quebec,Discretionary & On-Demand,English,230890149
+2019,2,Quebec,Discretionary & On-Demand,French,1290365366
+2019,2,Quebec,Non-Canadian & Other,English,84857891
+2019,2,West,Conventional ,English,801539911
+2019,2,West,Conventional ,French,1270909
+2019,2,West,Discretionary & On-Demand,French,2433514
+2019,2,West,Discretionary & On-Demand,English,1373524075
+2019,2,West,Non-Canadian & Other,English,326442764
+2019,3,Atlantic,Conventional ,English,278226752
+2019,3,Atlantic,Conventional ,French,2256314
+2019,3,Atlantic,Discretionary & On-Demand,English,495885871
+2019,3,Atlantic,Discretionary & On-Demand,French,1631276
+2019,3,Atlantic,Non-Canadian & Other,English,114447948
+2019,3,Central,Conventional ,English,234657731
+2019,3,Central,Conventional ,French,310839
+2019,3,Central,Discretionary & On-Demand,French,35961
+2019,3,Central,Discretionary & On-Demand,English,519205645
+2019,3,Central,Non-Canadian & Other,English,97510028
+2019,3,Ontario,Conventional ,English,1258018141
+2019,3,Ontario,Conventional ,French,19823478
+2019,3,Ontario,Discretionary & On-Demand,French,7818491
+2019,3,Ontario,Discretionary & On-Demand,English,2489801587
+2019,3,Ontario,Non-Canadian & Other,English,535718754
+2019,3,Quebec,Conventional ,English,140592470
+2019,3,Quebec,Conventional ,French,1188097460
+2019,3,Quebec,Discretionary & On-Demand,English,255465264
+2019,3,Quebec,Discretionary & On-Demand,French,1252271747
+2019,3,Quebec,Non-Canadian & Other,English,93055871
+2019,3,West,Conventional ,English,760786821
+2019,3,West,Conventional ,French,1643063
+2019,3,West,Discretionary & On-Demand,French,1878438
+2019,3,West,Discretionary & On-Demand,English,1298208843
+2019,3,West,Non-Canadian & Other,English,311009584
+2019,4,Atlantic,Conventional ,English,195302232
+2019,4,Atlantic,Conventional ,French,1726167
+2019,4,Atlantic,Discretionary & On-Demand,English,435279541
+2019,4,Atlantic,Discretionary & On-Demand,French,1008263
+2019,4,Atlantic,Non-Canadian & Other,English,127775998
+2019,4,Central,Conventional ,French,123891
+2019,4,Central,Conventional ,English,191364981
+2019,4,Central,Discretionary & On-Demand,English,511220970
+2019,4,Central,Discretionary & On-Demand,French,5399
+2019,4,Central,Non-Canadian & Other,English,102975607
+2019,4,Ontario,Conventional ,French,32244630
+2019,4,Ontario,Conventional ,English,1006674185
+2019,4,Ontario,Discretionary & On-Demand,English,2269733710
+2019,4,Ontario,Discretionary & On-Demand,French,7756304
+2019,4,Ontario,Non-Canadian & Other,English,534173383
+2019,4,Quebec,Conventional ,French,971188952
+2019,4,Quebec,Conventional ,English,112055120
+2019,4,Quebec,Discretionary & On-Demand,French,1119070873
+2019,4,Quebec,Discretionary & On-Demand,English,229017557
+2019,4,Quebec,Non-Canadian & Other,English,86566367
+2019,4,West,Conventional ,English,648538511
+2019,4,West,Conventional ,French,1215316
+2019,4,West,Discretionary & On-Demand,English,1142109031
+2019,4,West,Discretionary & On-Demand,French,1367058
+2019,4,West,Non-Canadian & Other,English,317220023
+2020,1,Atlantic,Conventional ,English,240833371
+2020,1,Atlantic,Conventional ,French,3255333
+2020,1,Atlantic,Discretionary & On-Demand,French,2628662
+2020,1,Atlantic,Discretionary & On-Demand,English,512224658
+2020,1,Atlantic,Non-Canadian & Other,English,142727005
+2020,1,Central,Conventional ,English,220611838
+2020,1,Central,Conventional ,French,84701
+2020,1,Central,Discretionary & On-Demand,French,22649
+2020,1,Central,Discretionary & On-Demand,English,560880272
+2020,1,Central,Non-Canadian & Other,English,113078386
+2020,1,Ontario,Conventional ,English,1212229215
+2020,1,Ontario,Conventional ,French,32299492
+2020,1,Ontario,Discretionary & On-Demand,French,36435741
+2020,1,Ontario,Discretionary & On-Demand,English,2404876167
+2020,1,Ontario,Non-Canadian & Other,English,590179473
+2020,1,Quebec,Conventional ,French,1284825562
+2020,1,Quebec,Conventional ,English,132418275
+2020,1,Quebec,Discretionary & On-Demand,French,1248275305
+2020,1,Quebec,Discretionary & On-Demand,English,250852242
+2020,1,Quebec,Non-Canadian & Other,English,95900231
+2020,1,West,Conventional ,English,716633311
+2020,1,West,Conventional ,French,1226161
+2020,1,West,Discretionary & On-Demand,French,1157179
+2020,1,West,Discretionary & On-Demand,English,1198188752
+2020,1,West,Non-Canadian & Other,English,314168330
+2020,2,Atlantic,Conventional ,English,252819422
+2020,2,Atlantic,Conventional ,French,7628826
+2020,2,Atlantic,Discretionary & On-Demand,French,4897481
+2020,2,Atlantic,Discretionary & On-Demand,English,525449526
+2020,2,Atlantic,Non-Canadian & Other,English,117411633
+2020,2,Central,Conventional ,English,248512225
+2020,2,Central,Conventional ,French,118242
+2020,2,Central,Discretionary & On-Demand,French,14434
+2020,2,Central,Discretionary & On-Demand,English,582260590
+2020,2,Central,Non-Canadian & Other,English,111438536
+2020,2,Ontario,Conventional ,English,1235632819
+2020,2,Ontario,Conventional ,French,24151866
+2020,2,Ontario,Discretionary & On-Demand,English,2407615240
+2020,2,Ontario,Discretionary & On-Demand,French,26207506
+2020,2,Ontario,Non-Canadian & Other,English,569307841
+2020,2,Quebec,Conventional ,English,146207071
+2020,2,Quebec,Conventional ,French,1332654482
+2020,2,Quebec,Discretionary & On-Demand,French,1265338456
+2020,2,Quebec,Discretionary & On-Demand,English,247269755
+2020,2,Quebec,Non-Canadian & Other,English,88663770
+2020,2,West,Conventional ,English,734943780
+2020,2,West,Conventional ,French,1297949
+2020,2,West,Discretionary & On-Demand,English,1259343309
+2020,2,West,Discretionary & On-Demand,French,1659807
+2020,2,West,Non-Canadian & Other,English,319317111
+2020,3,Atlantic,Conventional ,French,10128327
+2020,3,Atlantic,Conventional ,English,285145680
+2020,3,Atlantic,Discretionary & On-Demand,French,4516705
+2020,3,Atlantic,Discretionary & On-Demand,English,498630147
+2020,3,Atlantic,Non-Canadian & Other,English,136221386
+2020,3,Central,Conventional ,French,72332
+2020,3,Central,Conventional ,English,273339463
+2020,3,Central,Discretionary & On-Demand,English,550901559
+2020,3,Central,Discretionary & On-Demand,French,5041
+2020,3,Central,Non-Canadian & Other,English,133253039
+2020,3,Ontario,Conventional ,French,18498202
+2020,3,Ontario,Conventional ,English,1328444026
+2020,3,Ontario,Discretionary & On-Demand,French,21315605
+2020,3,Ontario,Discretionary & On-Demand,English,2350610184
+2020,3,Ontario,Non-Canadian & Other,English,706279231
+2020,3,Quebec,Conventional ,French,1482132671
+2020,3,Quebec,Conventional ,English,146508331
+2020,3,Quebec,Discretionary & On-Demand,French,1485510387
+2020,3,Quebec,Discretionary & On-Demand,English,241697618
+2020,3,Quebec,Non-Canadian & Other,English,118342298
+2020,3,West,Conventional ,English,832528772
+2020,3,West,Conventional ,French,1190537
+2020,3,West,Discretionary & On-Demand,French,1224066
+2020,3,West,Discretionary & On-Demand,English,1181816306
+2020,3,West,Non-Canadian & Other,English,373363325
+2020,4,Atlantic,Conventional ,French,4607550
+2020,4,Atlantic,Conventional ,English,188149304
+2020,4,Atlantic,Discretionary & On-Demand,English,398554522
+2020,4,Atlantic,Discretionary & On-Demand,French,3251528
+2020,4,Atlantic,Non-Canadian & Other,English,136875900
+2020,4,Central,Conventional ,English,183207991
+2020,4,Central,Conventional ,French,48970
+2020,4,Central,Discretionary & On-Demand,English,461814161
+2020,4,Central,Discretionary & On-Demand,French,25883
+2020,4,Central,Non-Canadian & Other,English,118179915
+2020,4,Ontario,Conventional ,French,16772139
+2020,4,Ontario,Conventional ,English,864488483
+2020,4,Ontario,Discretionary & On-Demand,English,2020783166
+2020,4,Ontario,Discretionary & On-Demand,French,16957191
+2020,4,Ontario,Non-Canadian & Other,English,641695527
+2020,4,Quebec,Conventional ,English,99463781
+2020,4,Quebec,Conventional ,French,976732243
+2020,4,Quebec,Discretionary & On-Demand,French,1140140374
+2020,4,Quebec,Discretionary & On-Demand,English,216222900
+2020,4,Quebec,Non-Canadian & Other,English,112743059
+2020,4,West,Conventional ,English,603226027
+2020,4,West,Conventional ,French,1101107
+2020,4,West,Discretionary & On-Demand,English,1073737733
+2020,4,West,Discretionary & On-Demand,French,1103962
+2020,4,West,Non-Canadian & Other,English,329593413
+2021,1,Atlantic,Conventional ,English,205351928
+2021,1,Atlantic,Conventional ,French,4402105
+2021,1,Atlantic,Discretionary & On-Demand,English,429495498
+2021,1,Atlantic,Discretionary & On-Demand,French,3103873
+2021,1,Atlantic,Non-Canadian & Other,English,157350324
+2021,1,Central,Conventional ,English,241681416
+2021,1,Central,Conventional ,French,122232
+2021,1,Central,Discretionary & On-Demand,English,472496749
+2021,1,Central,Discretionary & On-Demand,French,14196
+2021,1,Central,Non-Canadian & Other,English,125173663
+2021,1,Ontario,Conventional ,English,1044940165
+2021,1,Ontario,Conventional ,French,14907032
+2021,1,Ontario,Discretionary & On-Demand,French,6751136
+2021,1,Ontario,Discretionary & On-Demand,English,2130429543
+2021,1,Ontario,Non-Canadian & Other,English,718302446
+2021,1,Quebec,Conventional ,English,120891116
+2021,1,Quebec,Conventional ,French,1323473484
+2021,1,Quebec,Discretionary & On-Demand,English,217254343
+2021,1,Quebec,Discretionary & On-Demand,French,1129115821
+2021,1,Quebec,Non-Canadian & Other,English,130170847
+2021,1,West,Conventional ,English,722622599
+2021,1,West,Conventional ,French,1173388
+2021,1,West,Discretionary & On-Demand,English,1168483167
+2021,1,West,Discretionary & On-Demand,French,2350933
+2021,1,West,Non-Canadian & Other,English,355692355
+2021,2,Atlantic,Conventional ,English,234086254
+2021,2,Atlantic,Conventional ,French,4483078
+2021,2,Atlantic,Discretionary & On-Demand,English,502376764
+2021,2,Atlantic,Discretionary & On-Demand,French,3070085
+2021,2,Atlantic,Non-Canadian & Other,English,141637388
+2021,2,Central,Conventional ,English,231572997
+2021,2,Central,Conventional ,French,129144
+2021,2,Central,Discretionary & On-Demand,English,513418203
+2021,2,Central,Discretionary & On-Demand,French,38971
+2021,2,Central,Non-Canadian & Other,English,112756278
+2021,2,Ontario,Conventional ,French,18091097
+2021,2,Ontario,Conventional ,English,1138921087
+2021,2,Ontario,Discretionary & On-Demand,French,9677448
+2021,2,Ontario,Discretionary & On-Demand,English,2242007526
+2021,2,Ontario,Non-Canadian & Other,English,715686074
+2021,2,Quebec,Conventional ,French,1419935749
+2021,2,Quebec,Conventional ,English,135491871
+2021,2,Quebec,Discretionary & On-Demand,English,206165190
+2021,2,Quebec,Discretionary & On-Demand,French,1222031078
+2021,2,Quebec,Non-Canadian & Other,English,120743336
+2021,2,West,Conventional ,English,758432983
+2021,2,West,Conventional ,French,757885
+2021,2,West,Discretionary & On-Demand,English,1228435676
+2021,2,West,Discretionary & On-Demand,French,908326
+2021,2,West,Non-Canadian & Other,English,317537159
+2021,3,Atlantic,Conventional ,English,247550595
+2021,3,Atlantic,Conventional ,French,3366919
+2021,3,Atlantic,Discretionary & On-Demand,English,528380195
+2021,3,Atlantic,Discretionary & On-Demand,French,3237193
+2021,3,Atlantic,Non-Canadian & Other,English,108676779
+2021,3,Central,Conventional ,English,220009685
+2021,3,Central,Conventional ,French,107006
+2021,3,Central,Discretionary & On-Demand,French,13864
+2021,3,Central,Discretionary & On-Demand,English,484415749
+2021,3,Central,Non-Canadian & Other,English,74912079
+2021,3,Ontario,Conventional ,English,1140646837
+2021,3,Ontario,Conventional ,French,9210891
+2021,3,Ontario,Discretionary & On-Demand,French,8797682
+2021,3,Ontario,Discretionary & On-Demand,English,2236924645
+2021,3,Ontario,Non-Canadian & Other,English,529624666
+2021,3,Quebec,Conventional ,English,135796370
+2021,3,Quebec,Conventional ,French,1250865495
+2021,3,Quebec,Discretionary & On-Demand,English,205526922
+2021,3,Quebec,Discretionary & On-Demand,French,1144011069
+2021,3,Quebec,Non-Canadian & Other,English,79889729
+2021,3,West,Conventional ,French,442503
+2021,3,West,Conventional ,English,736329639
+2021,3,West,Discretionary & On-Demand,French,642034
+2021,3,West,Discretionary & On-Demand,English,1155283428
+2021,3,West,Non-Canadian & Other,English,277794415
+2021,4,Atlantic,Conventional ,English,224655345
+2021,4,Atlantic,Conventional ,French,3214849
+2021,4,Atlantic,Discretionary & On-Demand,French,2015611
+2021,4,Atlantic,Discretionary & On-Demand,English,477417297
+2021,4,Atlantic,Non-Canadian & Other,English,109721417
+2021,4,Central,Conventional ,English,199649049
+2021,4,Central,Conventional ,French,121785
+2021,4,Central,Discretionary & On-Demand,English,394950695
+2021,4,Central,Discretionary & On-Demand,French,61767
+2021,4,Central,Non-Canadian & Other,English,63963031
+2021,4,Ontario,Conventional ,English,991474902
+2021,4,Ontario,Conventional ,French,9124060
+2021,4,Ontario,Discretionary & On-Demand,French,9409207
+2021,4,Ontario,Discretionary & On-Demand,English,2109011299
+2021,4,Ontario,Non-Canadian & Other,English,469787531
+2021,4,Quebec,Conventional ,English,144886230
+2021,4,Quebec,Conventional ,French,978007058
+2021,4,Quebec,Discretionary & On-Demand,French,1057117098
+2021,4,Quebec,Discretionary & On-Demand,English,211628966
+2021,4,Quebec,Non-Canadian & Other,English,73946037
+2021,4,West,Conventional ,French,832471
+2021,4,West,Conventional ,English,672499982
+2021,4,West,Discretionary & On-Demand,French,703221
+2021,4,West,Discretionary & On-Demand,English,1069048247
+2021,4,West,Non-Canadian & Other,English,276426943
+2022,1,Atlantic,Conventional ,French,4054928
+2022,1,Atlantic,Conventional ,English,242447549
+2022,1,Atlantic,Discretionary & On-Demand,English,472325462
+2022,1,Atlantic,Discretionary & On-Demand,French,2392414
+2022,1,Atlantic,Non-Canadian & Other,English,77653595
+2022,1,Central,Conventional ,French,162087
+2022,1,Central,Conventional ,English,196339956
+2022,1,Central,Discretionary & On-Demand,English,497719222
+2022,1,Central,Discretionary & On-Demand,French,30490
+2022,1,Central,Non-Canadian & Other,English,54841538
+2022,1,Ontario,Conventional ,French,13182714
+2022,1,Ontario,Conventional ,English,1019704125
+2022,1,Ontario,Discretionary & On-Demand,English,2216264055
+2022,1,Ontario,Discretionary & On-Demand,French,19105972
+2022,1,Ontario,Non-Canadian & Other,English,442548956
+2022,1,Quebec,Conventional ,French,1252095438
+2022,1,Quebec,Conventional ,English,119986972
+2022,1,Quebec,Discretionary & On-Demand,French,1049164046
+2022,1,Quebec,Discretionary & On-Demand,English,212976165
+2022,1,Quebec,Non-Canadian & Other,English,83163781
+2022,1,West,Conventional ,English,703929815
+2022,1,West,Conventional ,French,660730
+2022,1,West,Discretionary & On-Demand,English,1155952879
+2022,1,West,Discretionary & On-Demand,French,1109429
+2022,1,West,Non-Canadian & Other,English,280633650
+2022,2,Atlantic,Conventional ,English,268603882
+2022,2,Atlantic,Conventional ,French,4098481
+2022,2,Atlantic,Discretionary & On-Demand,French,2980099
+2022,2,Atlantic,Discretionary & On-Demand,English,466422685
+2022,2,Atlantic,Non-Canadian & Other,English,81518354
+2022,2,Central,Conventional ,English,220230055
+2022,2,Central,Conventional ,French,106280
+2022,2,Central,Discretionary & On-Demand,English,497493605
+2022,2,Central,Discretionary & On-Demand,French,74076
+2022,2,Central,Non-Canadian & Other,English,62988218
+2022,2,Ontario,Conventional ,English,1100808550
+2022,2,Ontario,Conventional ,French,28270033
+2022,2,Ontario,Discretionary & On-Demand,English,2251464690
+2022,2,Ontario,Discretionary & On-Demand,French,29110982
+2022,2,Ontario,Non-Canadian & Other,English,443732254
+2022,2,Quebec,Conventional ,English,127007613
+2022,2,Quebec,Conventional ,French,1406503755
+2022,2,Quebec,Discretionary & On-Demand,French,1176535471
+2022,2,Quebec,Discretionary & On-Demand,English,196424222
+2022,2,Quebec,Non-Canadian & Other,English,77036487
+2022,2,West,Conventional ,French,740207
+2022,2,West,Conventional ,English,730505261
+2022,2,West,Discretionary & On-Demand,English,1194189374
+2022,2,West,Discretionary & On-Demand,French,603238
+2022,2,West,Non-Canadian & Other,English,293114771
+2022,3,Atlantic,Conventional ,English,243548585
+2022,3,Atlantic,Conventional ,French,3567000
+2022,3,Atlantic,Discretionary & On-Demand,English,493092257
+2022,3,Atlantic,Discretionary & On-Demand,French,3851066
+2022,3,Atlantic,Non-Canadian & Other,English,96849716
+2022,3,Central,Conventional ,English,205089220
+2022,3,Central,Conventional ,French,85119
+2022,3,Central,Discretionary & On-Demand,English,539396039
+2022,3,Central,Discretionary & On-Demand,French,49514
+2022,3,Central,Non-Canadian & Other,English,73979119
+2022,3,Ontario,Conventional ,English,981996829
+2022,3,Ontario,Conventional ,French,23323263
+2022,3,Ontario,Discretionary & On-Demand,English,2243098762
+2022,3,Ontario,Discretionary & On-Demand,French,29917135
+2022,3,Ontario,Non-Canadian & Other,English,494648507
+2022,3,Quebec,Conventional ,English,119532257
+2022,3,Quebec,Conventional ,French,1207197401
+2022,3,Quebec,Discretionary & On-Demand,French,1090844490
+2022,3,Quebec,Discretionary & On-Demand,English,187905464
+2022,3,Quebec,Non-Canadian & Other,English,79953281
+2022,3,West,Conventional ,English,658871003
+2022,3,West,Conventional ,French,497474
+2022,3,West,Discretionary & On-Demand,English,1202511252
+2022,3,West,Discretionary & On-Demand,French,1098493
+2022,3,West,Non-Canadian & Other,English,309194099
+2022,4,Atlantic,Conventional ,French,6546776
+2022,4,Atlantic,Conventional ,English,189315065
+2022,4,Atlantic,Discretionary & On-Demand,French,3305254
+2022,4,Atlantic,Discretionary & On-Demand,English,382889901
+2022,4,Atlantic,Non-Canadian & Other,English,86306175
+2022,4,Central,Conventional ,French,22241
+2022,4,Central,Conventional ,English,162866424
+2022,4,Central,Discretionary & On-Demand,French,82688
+2022,4,Central,Discretionary & On-Demand,English,466276042
+2022,4,Central,Non-Canadian & Other,English,67358363
+2022,4,Ontario,Conventional ,French,13321331
+2022,4,Ontario,Conventional ,English,765189999
+2022,4,Ontario,Discretionary & On-Demand,French,29164345
+2022,4,Ontario,Discretionary & On-Demand,English,1991940755
+2022,4,Ontario,Non-Canadian & Other,English,422428937
+2022,4,Quebec,Conventional ,French,899737112
+2022,4,Quebec,Conventional ,English,97805985
+2022,4,Quebec,Discretionary & On-Demand,French,1028935750
+2022,4,Quebec,Discretionary & On-Demand,English,175524126
+2022,4,Quebec,Non-Canadian & Other,English,75555523
+2022,4,West,Conventional ,French,362720
+2022,4,West,Conventional ,English,530581797
+2022,4,West,Discretionary & On-Demand,French,775259
+2022,4,West,Discretionary & On-Demand,English,994824793
+2022,4,West,Non-Canadian & Other,English,300888895
+2023,1,Atlantic,Conventional ,English,210099563
+2023,1,Atlantic,Conventional ,French,11132652
+2023,1,Atlantic,Discretionary & On-Demand,French,4085462
+2023,1,Atlantic,Discretionary & On-Demand,English,393898130
+2023,1,Atlantic,Non-Canadian & Other,English,89936430
+2023,1,Central,Conventional ,English,172534238
+2023,1,Central,Conventional ,French,310621
+2023,1,Central,Discretionary & On-Demand,French,392890
+2023,1,Central,Discretionary & On-Demand,English,435160640
+2023,1,Central,Non-Canadian & Other,English,64633518
+2023,1,Ontario,Conventional ,English,965156103
+2023,1,Ontario,Conventional ,French,17726993
+2023,1,Ontario,Discretionary & On-Demand,French,21540239
+2023,1,Ontario,Discretionary & On-Demand,English,2231403954
+2023,1,Ontario,Non-Canadian & Other,English,448124098
+2023,1,Quebec,Conventional ,English,105171651
+2023,1,Quebec,Conventional ,French,1201539481
+2023,1,Quebec,Discretionary & On-Demand,English,181167754
+2023,1,Quebec,Discretionary & On-Demand,French,1080178814
+2023,1,Quebec,Non-Canadian & Other,English,72548599
+2023,1,West,Conventional ,French,711697
+2023,1,West,Conventional ,English,642827801
+2023,1,West,Discretionary & On-Demand,French,754011
+2023,1,West,Discretionary & On-Demand,English,1107650842
+2023,1,West,Non-Canadian & Other,English,292097784
+2023,2,Atlantic,Conventional ,English,223544988
+2023,2,Atlantic,Conventional ,French,10482437
+2023,2,Atlantic,Discretionary & On-Demand,French,5161175
+2023,2,Atlantic,Discretionary & On-Demand,English,438282990
+2023,2,Atlantic,Non-Canadian & Other,English,94671505
+2023,2,Central,Conventional ,French,779225
+2023,2,Central,Conventional ,English,166115154
+2023,2,Central,Discretionary & On-Demand,French,977426
+2023,2,Central,Discretionary & On-Demand,English,379364631
+2023,2,Central,Non-Canadian & Other,English,63302651
+2023,2,Ontario,Conventional ,French,17701081
+2023,2,Ontario,Conventional ,English,987231931
+2023,2,Ontario,Discretionary & On-Demand,French,21959695
+2023,2,Ontario,Discretionary & On-Demand,English,2171074176
+2023,2,Ontario,Non-Canadian & Other,English,437263405
+2023,2,Quebec,Conventional ,French,1215314868
+2023,2,Quebec,Conventional ,English,106754024
+2023,2,Quebec,Discretionary & On-Demand,French,1168202043
+2023,2,Quebec,Discretionary & On-Demand,English,184395815
+2023,2,Quebec,Non-Canadian & Other,English,64089621
+2023,2,West,Conventional ,English,629566169
+2023,2,West,Conventional ,French,812923
+2023,2,West,Discretionary & On-Demand,French,1548399
+2023,2,West,Discretionary & On-Demand,English,1172870112
+2023,2,West,Non-Canadian & Other,English,289321790
+2023,3,Atlantic,Conventional ,English,232579764
+2023,3,Atlantic,Conventional ,French,10908062
+2023,3,Atlantic,Discretionary & On-Demand,French,3824120
+2023,3,Atlantic,Discretionary & On-Demand,English,456682580
+2023,3,Atlantic,Non-Canadian & Other,English,87452371
+2023,3,Central,Conventional ,English,172718688
+2023,3,Central,Conventional ,French,515967
+2023,3,Central,Discretionary & On-Demand,French,1373630
+2023,3,Central,Discretionary & On-Demand,English,367890423
+2023,3,Central,Non-Canadian & Other,English,68394734
+2023,3,Ontario,Conventional ,French,16158540
+2023,3,Ontario,Conventional ,English,971125459
+2023,3,Ontario,Discretionary & On-Demand,French,21300695
+2023,3,Ontario,Discretionary & On-Demand,English,2169388154
+2023,3,Ontario,Non-Canadian & Other,English,371445763
+2023,3,Quebec,Conventional ,French,1121242304
+2023,3,Quebec,Conventional ,English,109796226
+2023,3,Quebec,Discretionary & On-Demand,English,182547101
+2023,3,Quebec,Discretionary & On-Demand,French,1052219587
+2023,3,Quebec,Non-Canadian & Other,English,60206537
+2023,3,West,Conventional ,French,497770
+2023,3,West,Conventional ,English,633137850
+2023,3,West,Discretionary & On-Demand,French,941925
+2023,3,West,Discretionary & On-Demand,English,1227279966
+2023,3,West,Non-Canadian & Other,English,278037613
+2023,4,Atlantic,Conventional ,English,190368316
+2023,4,Atlantic,Conventional ,French,8403995
+2023,4,Atlantic,Discretionary & On-Demand,English,348464855
+2023,4,Atlantic,Discretionary & On-Demand,French,7156029
+2023,4,Atlantic,Non-Canadian & Other,English,90328563
+2023,4,Central,Conventional ,English,142863621
+2023,4,Central,Conventional ,French,122092
+2023,4,Central,Discretionary & On-Demand,English,343560658
+2023,4,Central,Discretionary & On-Demand,French,951065
+2023,4,Central,Non-Canadian & Other,English,82912434
+2023,4,Ontario,Conventional ,English,706144434
+2023,4,Ontario,Conventional ,French,14044831
+2023,4,Ontario,Discretionary & On-Demand,English,1866807091
+2023,4,Ontario,Discretionary & On-Demand,French,18565887
+2023,4,Ontario,Non-Canadian & Other,English,397625556
+2023,4,Quebec,Conventional ,English,75163804
+2023,4,Quebec,Conventional ,French,855573709
+2023,4,Quebec,Discretionary & On-Demand,French,1041010646
+2023,4,Quebec,Discretionary & On-Demand,English,158144335
+2023,4,Quebec,Non-Canadian & Other,English,62103030
+2023,4,West,Conventional ,English,498305879
+2023,4,West,Conventional ,French,332072
+2023,4,West,Discretionary & On-Demand,English,996681457
+2023,4,West,Discretionary & On-Demand,French,730059
+2023,4,West,Non-Canadian & Other,English,293680292
+2024,1,Atlantic,Conventional ,French,9475961
+2024,1,Atlantic,Conventional ,English,198806324
+2024,1,Atlantic,Discretionary & On-Demand,French,7776876
+2024,1,Atlantic,Discretionary & On-Demand,English,365132717
+2024,1,Atlantic,Non-Canadian & Other,English,93485170
+2024,1,Central,Conventional ,French,347327
+2024,1,Central,Conventional ,English,152272544
+2024,1,Central,Discretionary & On-Demand,English,372255622
+2024,1,Central,Discretionary & On-Demand,French,882573
+2024,1,Central,Non-Canadian & Other,English,74612276
+2024,1,Ontario,Conventional ,French,20621448
+2024,1,Ontario,Conventional ,English,747831484
+2024,1,Ontario,Discretionary & On-Demand,French,23142342
+2024,1,Ontario,Discretionary & On-Demand,English,1902234163
+2024,1,Ontario,Non-Canadian & Other,English,398960406
+2024,1,Quebec,Conventional ,French,1190236088
+2024,1,Quebec,Conventional ,English,87113172
+2024,1,Quebec,Discretionary & On-Demand,French,1087907109
+2024,1,Quebec,Discretionary & On-Demand,English,160822631
+2024,1,Quebec,Non-Canadian & Other,English,61598651
+2024,1,West,Conventional ,English,597000847
+2024,1,West,Conventional ,French,570592
+2024,1,West,Discretionary & On-Demand,English,1151501136
+2024,1,West,Discretionary & On-Demand,French,1057912
+2024,1,West,Non-Canadian & Other,English,292988505
+2024,2,Atlantic,Conventional ,French,9073922
+2024,2,Atlantic,Conventional ,English,203865723
+2024,2,Atlantic,Discretionary & On-Demand,French,9043427
+2024,2,Atlantic,Discretionary & On-Demand,English,363609402
+2024,2,Atlantic,Non-Canadian & Other,English,99770539
+2024,2,Central,Conventional ,French,873510
+2024,2,Central,Conventional ,English,169362933
+2024,2,Central,Discretionary & On-Demand,English,372746542
+2024,2,Central,Discretionary & On-Demand,French,837790
+2024,2,Central,Non-Canadian & Other,English,71408575
+2024,2,Ontario,Conventional ,French,20960803
+2024,2,Ontario,Conventional ,English,834171864
+2024,2,Ontario,Discretionary & On-Demand,French,22309621
+2024,2,Ontario,Discretionary & On-Demand,English,1879391275
+2024,2,Ontario,Non-Canadian & Other,English,390793841
+2024,2,Quebec,Conventional ,French,1243866845
+2024,2,Quebec,Conventional ,English,100781824
+2024,2,Quebec,Discretionary & On-Demand,French,1169221634
+2024,2,Quebec,Discretionary & On-Demand,English,161317707
+2024,2,Quebec,Non-Canadian & Other,English,61869873
+2024,2,West,Conventional ,French,1233099
+2024,2,West,Conventional ,English,585115908
+2024,2,West,Discretionary & On-Demand,French,1394498
+2024,2,West,Discretionary & On-Demand,English,1154200080
+2024,2,West,Non-Canadian & Other,English,240845157
+2024,3,Atlantic,Conventional ,French,8328797
+2024,3,Atlantic,Conventional ,English,205971018
+2024,3,Atlantic,Discretionary & On-Demand,French,8635811
+2024,3,Atlantic,Discretionary & On-Demand,English,393670287
+2024,3,Atlantic,Non-Canadian & Other,English,96316187
+2024,3,Central,Conventional ,French,624969
+2024,3,Central,Conventional ,English,190762818
+2024,3,Central,Discretionary & On-Demand,English,402026990
+2024,3,Central,Discretionary & On-Demand,French,390640
+2024,3,Central,Non-Canadian & Other,English,70217325
+2024,3,Ontario,Conventional ,French,21238381
+2024,3,Ontario,Conventional ,English,857395408
+2024,3,Ontario,Discretionary & On-Demand,English,1880086124
+2024,3,Ontario,Discretionary & On-Demand,French,20698282
+2024,3,Ontario,Non-Canadian & Other,English,361688424
+2024,3,Quebec,Conventional ,French,1152241984
+2024,3,Quebec,Conventional ,English,106105087
+2024,3,Quebec,Discretionary & On-Demand,French,1068955445
+2024,3,Quebec,Discretionary & On-Demand,English,161707642
+2024,3,Quebec,Non-Canadian & Other,English,60943010
+2024,3,West,Conventional ,English,627966715
+2024,3,West,Conventional ,French,929060
+2024,3,West,Discretionary & On-Demand,English,1223195916
+2024,3,West,Discretionary & On-Demand,French,801563
+2024,3,West,Non-Canadian & Other,English,211394933
+2024,4,Atlantic,Conventional ,French,6265179
+2024,4,Atlantic,Conventional ,English,174015571
+2024,4,Atlantic,Discretionary & On-Demand,English,318978664
+2024,4,Atlantic,Discretionary & On-Demand,French,8273427
+2024,4,Atlantic,Non-Canadian & Other,English,95402925
+2024,4,Central,Conventional ,French,276733
+2024,4,Central,Conventional ,English,165416638
+2024,4,Central,Discretionary & On-Demand,English,372029407
+2024,4,Central,Discretionary & On-Demand,French,91642
+2024,4,Central,Non-Canadian & Other,English,76487503
+2024,4,Ontario,Conventional ,French,11402923
+2024,4,Ontario,Conventional ,English,724797127
+2024,4,Ontario,Discretionary & On-Demand,French,17167937
+2024,4,Ontario,Discretionary & On-Demand,English,1798987362
+2024,4,Ontario,Non-Canadian & Other,English,399297934
+2024,4,Quebec,Conventional ,French,896114672
+2024,4,Quebec,Conventional ,English,91451442
+2024,4,Quebec,Discretionary & On-Demand,English,161027372
+2024,4,Quebec,Discretionary & On-Demand,French,982428248
+2024,4,Quebec,Non-Canadian & Other,English,64534514
+2024,4,West,Conventional ,English,559836417
+2024,4,West,Conventional ,French,938831
+2024,4,West,Discretionary & On-Demand,French,764575
+2024,4,West,Discretionary & On-Demand,English,929421467
+2024,4,West,Non-Canadian & Other,English,195522680
+2025,1,Atlantic,Conventional ,English,195216667
+2025,1,Atlantic,Conventional ,French,8916667
+2025,1,Atlantic,Discretionary & On-Demand,French,8600000
+2025,1,Atlantic,Discretionary & On-Demand,English,335716666
+2025,1,Atlantic,Non-Canadian & Other,English,110716667
+2025,1,Central,Conventional ,English,168583334
+2025,1,Central,Conventional ,French,566667
+2025,1,Central,Discretionary & On-Demand,English,357450000
+2025,1,Central,Discretionary & On-Demand,French,316667
+2025,1,Central,Non-Canadian & Other,English,83250000
+2025,1,Ontario,Conventional ,English,806050000
+2025,1,Ontario,Conventional ,French,17050000
+2025,1,Ontario,Discretionary & On-Demand,English,1637250000
+2025,1,Ontario,Discretionary & On-Demand,French,10150000
+2025,1,Ontario,Non-Canadian & Other,English,441033333
+2025,1,Quebec,Conventional ,English,93600000
+2025,1,Quebec,Conventional ,French,1072366667
+2025,1,Quebec,Discretionary & On-Demand,English,154866667
+2025,1,Quebec,Discretionary & On-Demand,French,1029566666
+2025,1,Quebec,Non-Canadian & Other,English,68183333
+2025,1,West,Conventional ,French,816666
+2025,1,West,Conventional ,English,613300000
+2025,1,West,Discretionary & On-Demand,English,976349999
+2025,1,West,Discretionary & On-Demand,French,1383334
+2025,1,West,Non-Canadian & Other,English,223083333
+2025,2,Atlantic,Conventional ,French,8799999
+2025,2,Atlantic,Conventional ,English,195850000
+2025,2,Atlantic,Discretionary & On-Demand,English,378950000
+2025,2,Atlantic,Discretionary & On-Demand,French,7983333
+2025,2,Atlantic,Non-Canadian & Other,English,95433333
+2025,2,Central,Conventional ,French,1100000
+2025,2,Central,Conventional ,English,174800001
+2025,2,Central,Discretionary & On-Demand,English,380816667
+2025,2,Central,Discretionary & On-Demand,French,1050000
+2025,2,Central,Non-Canadian & Other,English,60316666
+2025,2,Ontario,Conventional ,French,17233333
+2025,2,Ontario,Conventional ,English,840366667
+2025,2,Ontario,Discretionary & On-Demand,English,1782216666
+2025,2,Ontario,Discretionary & On-Demand,French,14066666
+2025,2,Ontario,Non-Canadian & Other,English,403333333
+2025,2,Quebec,Conventional ,French,1105283333
+2025,2,Quebec,Conventional ,English,100500000
+2025,2,Quebec,Discretionary & On-Demand,English,164233333
+2025,2,Quebec,Discretionary & On-Demand,French,1127783333
+2025,2,Quebec,Non-Canadian & Other,English,58116667
+2025,2,West,Conventional ,English,597033334
+2025,2,West,Conventional ,French,1283334
+2025,2,West,Discretionary & On-Demand,English,1077133333
+2025,2,West,Discretionary & On-Demand,French,3200000
+2025,2,West,Non-Canadian & Other,English,195333334
+2025,3,Atlantic,Conventional ,English,193750001
+2025,3,Atlantic,Conventional ,French,6000001
+2025,3,Atlantic,Discretionary & On-Demand,French,13700000
+2025,3,Atlantic,Discretionary & On-Demand,English,395133334
+2025,3,Atlantic,Non-Canadian & Other,English,123033333
+2025,3,Central,Conventional ,English,195600000
+2025,3,Central,Conventional ,French,850001
+2025,3,Central,Discretionary & On-Demand,English,363233333
+2025,3,Central,Discretionary & On-Demand,French,700000
+2025,3,Central,Non-Canadian & Other,English,62733334
+2025,3,Ontario,Conventional ,English,826400000
+2025,3,Ontario,Conventional ,French,16333333
+2025,3,Ontario,Discretionary & On-Demand,English,1809416667
+2025,3,Ontario,Discretionary & On-Demand,French,6316667
+2025,3,Ontario,Non-Canadian & Other,English,406083333
+2025,3,Quebec,Conventional ,English,109483334
+2025,3,Quebec,Conventional ,French,977216667
+2025,3,Quebec,Discretionary & On-Demand,French,1102233334
+2025,3,Quebec,Discretionary & On-Demand,English,161533333
+2025,3,Quebec,Non-Canadian & Other,English,55883333
+2025,3,West,Conventional ,French,1366666
+2025,3,West,Conventional ,English,579050000
+2025,3,West,Discretionary & On-Demand,English,1042549999
+2025,3,West,Discretionary & On-Demand,French,1366666
+2025,3,West,Non-Canadian & Other,English,184616666
