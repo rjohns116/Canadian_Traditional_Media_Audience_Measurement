@@ -39,7 +39,9 @@ Foundational knowledge about which language Canadians prefer to consume radio an
 ├── docs/
 ├── notebooks/
 ├── src/
-├── README.md
+├── .gitignore/
+├── map_example.png
+├── README.md/
 └── requirements.txt
 ```
 ## Methods:
