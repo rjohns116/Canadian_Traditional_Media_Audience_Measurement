@@ -2,9 +2,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 #Import clean datasets
-audiovisual_clean = pd.read_csv(r"C:\Users\rlynj\OneDrive\Documents\Project-2\data\cleaned\audiovisual_cleaned.csv")
-radio_clean = pd.read_csv(r"C:\Users\rlynj\OneDrive\Documents\Project-2\data\cleaned\radio_cleaned.csv")
-television_clean = pd.read_csv(r"C:\Users\rlynj\OneDrive\Documents\Project-2\data\cleaned\television_cleaned.csv")
+audiovisual_clean = pd.read_csv(r"/workspaces/Project-2/data/cleaned/audiovisual_cleaned.csv")
+radio_clean = pd.read_csv(r"/workspaces/Project-2/data/cleaned/radio_cleaned.csv")
+television_clean = pd.read_csv(r"/workspaces/Project-2/data/cleaned/television_cleaned.csv")
 
 #Total hours consumed from newer digital audiovisual channels
 av_total_hours = audiovisual_clean.groupby("Broadcast_Year")["Total_Quarterly_Hours"].sum().reset_index()
@@ -29,7 +29,7 @@ plt.legend()
 
 plt.xlabel("Broadcast Year")
 plt.ylabel("Total Quarterly Hours (billions)")
-plt.title("Canadian Media Consuption Hours Over Time")
+plt.title("Canadian Media Consumption Hours Over Time")
 
 #Save figure
-plt.savefig(r"C:\Users\rlynj\OneDrive\Documents\Project-2\docs\consumption_hours_over_time.jpg")
+plt.savefig("/workspaces/Project-2/docs/consumption_hours_over_time.png")
