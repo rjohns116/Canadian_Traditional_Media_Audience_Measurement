@@ -11,7 +11,7 @@ Preferences for either English or French radio and television in different marke
 ![map_example](map_example.png)
 
 
-**Image 1**: A map showing the distribution of English and French media broadcasting across Canada in 2019. English media is represented by red, French media by blue.
+**Image 1**: A map showing the distribution of English and French broadcasting hours across Canada in 2019. English media is represented by red, French media by blue.
 
 
 ### The rise of streaming and mobile platforms and services has led to concerns about shifting viewer habits.
