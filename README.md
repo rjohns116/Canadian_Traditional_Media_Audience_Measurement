@@ -22,7 +22,7 @@ New technology may be shifting the way that people consume media, including lang
 **We can get a sense of historical media language preferences across Canada by examining broadcasting language data for traditional radio and television channels.**
 
 By understanding language preferences in traditional media channels like radio and television, in the future we can:
-- #### **Predict** language preferences for newer audiovisual platforms based on location
+- #### **Predict** language preferences on newer audiovisual platforms based on location
 - #### **Compare** future data about audiovisual platform language preferences vs traditional platform language preferences to understand differences (or similarities) in audience
 - #### **Investigate** the stability of traditional media in certain regions by examining trends in total broadcasting hours over time
 
